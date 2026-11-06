@@ -17,6 +17,7 @@ cours_sequence_video.pdf
 sujet_tp1.pdf
 
 # Rapport (local uniquement)
+rapport/*
 rapport/
 
 # Editeur et systeme
