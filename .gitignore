@@ -16,6 +16,9 @@ __pycache__/
 cours_sequence_video.pdf
 sujet_tp1.pdf
 
+# Rapport (local uniquement)
+rapport/
+
 # Editeur et systeme
 .vscode/
 Thumbs.db
